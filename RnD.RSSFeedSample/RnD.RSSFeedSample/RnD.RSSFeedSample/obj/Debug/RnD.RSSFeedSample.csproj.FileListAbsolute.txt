@@ -1,0 +1,7 @@
+E:\Bappi\RnD Project\RnD.RSSFeedSample\RnD.RSSFeedSample\bin\RnD.RSSFeedSample.dll
+E:\Bappi\RnD Project\RnD.RSSFeedSample\RnD.RSSFeedSample\bin\RnD.RSSFeedSample.pdb
+E:\Bappi\RnD Project\RnD.RSSFeedSample\RnD.RSSFeedSample\bin\EntityFramework.dll
+E:\Bappi\RnD Project\RnD.RSSFeedSample\RnD.RSSFeedSample\bin\EntityFramework.xml
+E:\Bappi\RnD Project\RnD.RSSFeedSample\RnD.RSSFeedSample\obj\Debug\RnD.RSSFeedSample.csprojResolveAssemblyReference.cache
+E:\Bappi\RnD Project\RnD.RSSFeedSample\RnD.RSSFeedSample\obj\Debug\RnD.RSSFeedSample.dll
+E:\Bappi\RnD Project\RnD.RSSFeedSample\RnD.RSSFeedSample\obj\Debug\RnD.RSSFeedSample.pdb
