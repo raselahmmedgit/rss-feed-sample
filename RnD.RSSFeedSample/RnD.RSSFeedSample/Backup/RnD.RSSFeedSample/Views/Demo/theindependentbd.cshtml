@@ -1,0 +1,29 @@
+﻿@{
+    ViewBag.Title = "theindependentbd";
+}
+@model IEnumerable<RnD.RSSFeedSample.ViewModels.RssFeedViewModel>
+<div id="indexPage">
+    @foreach (var item in Model.ToList())
+    {
+        <div class="rss-feed">
+            <div class="rss-title">
+                <h2>@item.Title</h2>
+            </div>
+            <div class="rss-subtitle">
+                <h3>@item.SubTitle</h3>
+            </div>
+            <div class="rss-description">
+                <p>@item.Description</p>
+            </div>
+            <div class="rss-imagepath">
+                <p>@item.ImagePath</p>
+            </div>
+            <div class="rss-link">
+                <p>@item.Link</p>
+            </div>
+            <div class="rss-publishdate">
+                <p>@item.PublishDate</p>
+            </div>
+        </div>
+    }
+</div>

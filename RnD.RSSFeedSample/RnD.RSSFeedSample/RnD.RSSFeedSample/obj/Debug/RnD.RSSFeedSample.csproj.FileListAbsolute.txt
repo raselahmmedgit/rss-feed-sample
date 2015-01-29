@@ -5,3 +5,10 @@ E:\Bappi\RnD Project\RnD.RSSFeedSample\RnD.RSSFeedSample\bin\EntityFramework.xml
 E:\Bappi\RnD Project\RnD.RSSFeedSample\RnD.RSSFeedSample\obj\Debug\RnD.RSSFeedSample.csprojResolveAssemblyReference.cache
 E:\Bappi\RnD Project\RnD.RSSFeedSample\RnD.RSSFeedSample\obj\Debug\RnD.RSSFeedSample.dll
 E:\Bappi\RnD Project\RnD.RSSFeedSample\RnD.RSSFeedSample\obj\Debug\RnD.RSSFeedSample.pdb
+C:\Users\IT_CONSOLID1\Documents\GitHub\rss-feed-sample\RnD.RSSFeedSample\RnD.RSSFeedSample\RnD.RSSFeedSample\bin\RnD.RSSFeedSample.dll
+C:\Users\IT_CONSOLID1\Documents\GitHub\rss-feed-sample\RnD.RSSFeedSample\RnD.RSSFeedSample\RnD.RSSFeedSample\bin\RnD.RSSFeedSample.pdb
+C:\Users\IT_CONSOLID1\Documents\GitHub\rss-feed-sample\RnD.RSSFeedSample\RnD.RSSFeedSample\RnD.RSSFeedSample\bin\EntityFramework.dll
+C:\Users\IT_CONSOLID1\Documents\GitHub\rss-feed-sample\RnD.RSSFeedSample\RnD.RSSFeedSample\RnD.RSSFeedSample\bin\EntityFramework.xml
+C:\Users\IT_CONSOLID1\Documents\GitHub\rss-feed-sample\RnD.RSSFeedSample\RnD.RSSFeedSample\RnD.RSSFeedSample\obj\Debug\RnD.RSSFeedSample.csprojResolveAssemblyReference.cache
+C:\Users\IT_CONSOLID1\Documents\GitHub\rss-feed-sample\RnD.RSSFeedSample\RnD.RSSFeedSample\RnD.RSSFeedSample\obj\Debug\RnD.RSSFeedSample.dll
+C:\Users\IT_CONSOLID1\Documents\GitHub\rss-feed-sample\RnD.RSSFeedSample\RnD.RSSFeedSample\RnD.RSSFeedSample\obj\Debug\RnD.RSSFeedSample.pdb

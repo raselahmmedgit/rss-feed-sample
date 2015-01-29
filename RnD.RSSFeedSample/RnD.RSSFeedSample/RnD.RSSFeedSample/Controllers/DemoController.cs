@@ -11,6 +11,22 @@ namespace RnD.RSSFeedSample.Controllers
 {
     public class DemoController : Controller
     {
+        public ActionResult myblog()
+        {
+            var rssFeedViewModelList = new List<RssFeedViewModel>();
+
+            try
+            {
+                string strRssFeedUrl = "http://blog.raselahmmed.com/feed/";
+                rssFeedViewModelList = GetRssFeedData(strRssFeedUrl);
+
+                return View(rssFeedViewModelList);
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
 
         public ActionResult prothomalo()
         {
